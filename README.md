@@ -1,1 +1,1 @@
-# Very Simple Logicale part of a game engine
+# Very Simple Logical part of a game engine
